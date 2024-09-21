@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java Stream流详解"
+title: "Stream流，牛！"
 date: 2024-06-19 
 description: "Jekyll+Java Stream流详解"
 tag: Java

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Java内部类详解"
+title: "丰富的Java内部类"
 date: 2024-04-13 
 description: "Java内部类详解"
 tag: Java
