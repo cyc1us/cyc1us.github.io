@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Stream流，牛！"
+title: "强大的Stream流"
 date: 2024-06-19 
-description: "Jekyll+Java Stream流详解"
+description: "Java Stream流详解"
 tag: Java
 ---  
   如果你要问我Java中最常用最高效最爽的数据处理方式是什么，那我一定会回答——Stream流！只能说年少不知Stream好，错把循环当成宝，当然这是玩笑，要在合适的场景用合适的方法。
